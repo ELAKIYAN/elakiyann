@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	int a,hour,minute;
 	scanf("%d",&a);
@@ -9,5 +9,5 @@ int main()
 		minute=a%60;
 		printf("%d %d",hour,minute);
 	}
-	return 0;
+	
 }
