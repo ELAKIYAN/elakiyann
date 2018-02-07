@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
   int i,count=0;
   char a[100];
@@ -13,5 +13,5 @@ int main()
   	
   }
   printf("%d",count);
-  return 0;
+
 }
