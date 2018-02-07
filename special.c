@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int count=0;
 char s;
@@ -9,5 +9,5 @@ if(s==","||s=="."||s=="$"||s=="*")
 {
 count++;
 }
-return 0;
+
 }
