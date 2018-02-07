@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	int a=10,b[25],i,c;
 	printf("\n array elements are:");
@@ -14,5 +14,5 @@ int main()
 		c=b[i];
 	}
 	printf("\n result is %d",c);
-	return 0;
+	
 }
