@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 char ch;
 printf("enter the value");
@@ -12,5 +12,4 @@ else
 {
 printf("no");
 }
-return 0;
 }
